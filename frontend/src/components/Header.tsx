@@ -10,7 +10,7 @@ interface HeaderProps {
 }
 
 export default function Header({
-    githubUrl = "https://github.com/obakas/Fund-Idris",
+    githubUrl = "https://github.com/obakas/Chain-Legacy",
     appName = "CHAIN-LEGACY",
     logoUrl,
 }: HeaderProps) {
